@@ -7,7 +7,6 @@ package com.zyl;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("master修改1");
-        System.out.println("dev修改1");
+        System.out.println("dev修改2");
     }
 }
